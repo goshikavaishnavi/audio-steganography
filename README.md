@@ -4,8 +4,8 @@
 This project hides secret messages inside audio files using Python.
 
 ## 🛠️ Technologies Used
-- Python
-- Wave Library
+- java
+- Audio processing
 - Steganography Concepts
 
 ## ⚙️ How it Works
